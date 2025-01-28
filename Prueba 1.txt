@@ -1,0 +1,5 @@
+Q={A,B,C,D}
+Z={a,b}
+i=A
+A={B,D}
+w={(A,a,B);(A,b,C);(B,a,B);(B,b,B);(C,a,D);(C,b,C);(D,a,D);(D,b,D)}
